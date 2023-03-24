@@ -2,8 +2,8 @@
 
 It is enough to look to the page source in order to find the secret code.
 
-![1](./1.png)
+![1](./initial.png)
 
-![1](./2.png)
+![1](./code.png)
 
-![1](./3.png)
+![1](./flag.png)

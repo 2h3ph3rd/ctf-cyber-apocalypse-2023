@@ -1,4 +1,4 @@
-# WEB 05 - Orbital
+# Web 05 - Orbital
 
 SQLi + file path traversal
 
