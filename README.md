@@ -4,6 +4,6 @@ This repository contains my writeups for the challenges in the HTB Cyber Apocaly
 
 I solved 20 challenges, and in each folder you can find a small writeup and the scripts used.
 
-When it was available, you can find also the source code.
+You can find the source code when it has been provided.
 
 ![banner](./banner.jpg)
