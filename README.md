@@ -1,4 +1,4 @@
-# HTB Cyber Apocalypse CTF 2023 - The Cursed Mission
+# HTB Cyber Apocalypse CTF 2023
 
 This repository contains my writeups for the challenges in the HTB Cyber Apocalypse CTF 2023 - The Cursed Mission.
 
